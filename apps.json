@@ -3985,11 +3985,6 @@
     "icon": "https://portable-linux-apps.github.io/icons/fd.png"
   },
   {
-    "packageName": "fdc3-sail",
-    "description": "Open implementation of the FDC3 standard using Electron...",
-    "icon": "https://portable-linux-apps.github.io/icons/fdc3-sail.png"
-  },
-  {
     "packageName": "fdm",
     "description": "Free Download Manager, multiplatform powerful modern download accelerator and organizer...",
     "icon": "https://portable-linux-apps.github.io/icons/fdm.png"
@@ -12638,6 +12633,11 @@
     "packageName": "subtitler",
     "description": "Quickly download subtitles...",
     "icon": "https://portable-linux-apps.github.io/icons/subtitler.png"
+  },
+  {
+    "packageName": "sugarizer",
+    "description": "Sugarizer is a free/libre learning platform. The Sugarizer UI use ergonomic principles from Sugar platform, developed for the One Laptop per Child project. Sugarizer is used every day by thousands of users around the world...",
+    "icon": "https://portable-linux-apps.github.io/icons/sugarizer.png"
   },
   {
     "packageName": "sultanpos",
