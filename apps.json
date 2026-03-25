@@ -14640,6 +14640,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/xenia-edge.png"
   },
   {
+    "packageName": "xeyes",
+    "description": "Unofficial, a \"follow the mouse\" X demo, using the X SHAPE extension...",
+    "icon": "https://portable-linux-apps.github.io/icons/xeyes.png"
+  },
+  {
     "packageName": "xgetter",
     "description": "Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more...",
     "icon": "https://portable-linux-apps.github.io/icons/xgetter.png"

@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed the **2537** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed the **2538** unique Appimages managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -2485,6 +2485,7 @@
 | <img loading="lazy" src="icons/xemu.png" width="48" height="48"> | [***xemu***](apps/xemu.md) | *Original Xbox Emulator.*..[ *read more* ](apps/xemu.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xemu) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xemu) |
 | <img loading="lazy" src="icons/xenia-canary.png" width="48" height="48"> | [***xenia-canary***](apps/xenia-canary.md) | *Unofficial AppImage of xenia-canary Xbox360 emulator.*..[ *read more* ](apps/xenia-canary.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenia-canary) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenia-canary) |
 | <img loading="lazy" src="icons/xenia-edge.png" width="48" height="48"> | [***xenia-edge***](apps/xenia-edge.md) | *Xbox 360 Emulator Research Project, fork of the Xenia emulator, with the aim of quicker iteration and improvements to Vulkan backend.*..[ *read more* ](apps/xenia-edge.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xenia-edge) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xenia-edge) |
+| <img loading="lazy" src="icons/xeyes.png" width="48" height="48"> | [***xeyes***](apps/xeyes.md) | *Unofficial, a "follow the mouse" X demo, using the X SHAPE extension.*..[ *read more* ](apps/xeyes.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xeyes) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xeyes) |
 | <img loading="lazy" src="icons/xgetter.png" width="48" height="48"> | [***xgetter***](apps/xgetter.md) | *Download video on Youtube, Facebook, X(Twitter), Instagram, Tiktok, Bilibili, Douyin and more.*..[ *read more* ](apps/xgetter.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xgetter) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xgetter) |
 | <img loading="lazy" src="icons/xilinota.png" width="48" height="48"> | [***xilinota***](apps/xilinota.md) | *Note-taking app boasting instant syncing among devices and direct keeping of markdown files.*..[ *read more* ](apps/xilinota.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xilinota) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xilinota) |
 | <img loading="lazy" src="icons/xiphos.png" width="48" height="48"> | [***xiphos***](apps/xiphos.md) | *Unofficial, a Bible study tool using GTK.*..[ *read more* ](apps/xiphos.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/xiphos) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/xiphos) |
