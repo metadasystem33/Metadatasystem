@@ -7375,6 +7375,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/linuxqq.png"
   },
   {
+    "packageName": "linuxtoys",
+    "description": "Unofficial, a user-friendly collection of tools to make your life on Linux easier than ever. Useful scripts for gamers, developers and enthusiasts...",
+    "icon": "https://portable-linux-apps.github.io/icons/linuxtoys.png"
+  },
+  {
     "packageName": "linuxwallpaper",
     "description": "Bing wallpaper of the day...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxwallpaper.png"
@@ -11303,6 +11308,11 @@
     "packageName": "rewaita",
     "description": "Unofficial, rewaita gives your Adwaita apps a fresh look by tinting them with popular color schemes...",
     "icon": "https://portable-linux-apps.github.io/icons/rewaita.png"
+  },
+  {
+    "packageName": "rgitui",
+    "description": "A GPU-accelerated desktop Git client built in Rust with GPUI...",
+    "icon": "https://portable-linux-apps.github.io/icons/rgitui.png"
   },
   {
     "packageName": "rhb",

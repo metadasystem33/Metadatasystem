@@ -3,7 +3,7 @@
 | [Home](index.md) |
 | --- |
 
-#### Here are listed **319** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
+#### Here are listed **320** programs and **40** items for this category and managed by [AM](https://github.com/ivan-hc/AM) 	and [AppMan](https://github.com/ivan-hc/AppMan) for the x86_64 architecture.
 
 *Use your browser's built-in search tool to easily navigate to this page or use the tags below.*
 
@@ -206,6 +206,7 @@
 | <img loading="lazy" src="icons/legendary-kingdoms.png" width="48" height="48"> | [***legendary-kingdoms***](apps/legendary-kingdoms.md) | *Implementation of Legendary Kingdoms Gamebooks in C++.*..[ *read more* ](apps/legendary-kingdoms.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/legendary-kingdoms) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/legendary-kingdoms) |
 | <img loading="lazy" src="icons/liground.png" width="48" height="48"> | [***liground***](apps/liground.md) | *A mordern Chess Variant Analysis GUI, game.*..[ *read more* ](apps/liground.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liground) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liground) |
 | <img loading="lazy" src="icons/linedancer.png" width="48" height="48"> | [***linedancer***](apps/linedancer.md) | *Arcade game and entry for Ludum Dare 35.*..[ *read more* ](apps/linedancer.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linedancer) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linedancer) |
+| <img loading="lazy" src="icons/linuxtoys.png" width="48" height="48"> | [***linuxtoys***](apps/linuxtoys.md) | *Unofficial, a user-friendly collection of tools to make your life on Linux easier than ever. Useful scripts for gamers, developers and enthusiasts.*..[ *read more* ](apps/linuxtoys.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/linuxtoys) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/linuxtoys) |
 | <img loading="lazy" src="icons/liquidlauncher.png" width="48" height="48"> | [***liquidlauncher***](apps/liquidlauncher.md) | *The official Minecraft launcher for LiquidBounce.*..[ *read more* ](apps/liquidlauncher.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/liquidlauncher) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/liquidlauncher) |
 | <img loading="lazy" src="icons/love.png" width="48" height="48"> | [***love***](apps/love.md) | *The unquestionably awesome 2D game engine.*..[ *read more* ](apps/love.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/love) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/love) |
 | <img loading="lazy" src="icons/lskat.png" width="48" height="48"> | [***lskat***](apps/lskat.md) | *Unofficial, Fun and engaging card game for two players. This script installs the full "kdegames" suite.*..[ *read more* ](apps/lskat.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/lskat) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/lskat) |
