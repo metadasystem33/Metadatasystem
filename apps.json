@@ -5610,6 +5610,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/harmonoid.png"
   },
   {
+    "packageName": "haruna",
+    "description": "Unofficial, an open source media player built with Qt/QML and libmpv...",
+    "icon": "https://portable-linux-apps.github.io/icons/haruna.png"
+  },
+  {
     "packageName": "hascard",
     "description": "Flashcard TUI CLI with markdown cards...",
     "icon": "https://portable-linux-apps.github.io/icons/hascard.png"
@@ -7368,11 +7373,6 @@
     "packageName": "linuxqq",
     "description": "New Linux QQ based on Electron...",
     "icon": "https://portable-linux-apps.github.io/icons/linuxqq.png"
-  },
-  {
-    "packageName": "linuxtoys",
-    "description": "A collection of tools for Linux in a user-friendly way...",
-    "icon": "https://portable-linux-apps.github.io/icons/linuxtoys.png"
   },
   {
     "packageName": "linuxwallpaper",
@@ -14863,6 +14863,11 @@
     "packageName": "xemu",
     "description": "Original Xbox Emulator...",
     "icon": "https://portable-linux-apps.github.io/icons/xemu.png"
+  },
+  {
+    "packageName": "xemu-enhanced",
+    "description": "Unofficial, original Xbox Emulator for Windows, macOS, and Linux (Active Development)...",
+    "icon": "https://portable-linux-apps.github.io/icons/xemu-enhanced.png"
   },
   {
     "packageName": "xenia-canary",
