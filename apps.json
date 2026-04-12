@@ -2075,6 +2075,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/clamtk.png"
   },
   {
+    "packageName": "clamui",
+    "description": "ClamAV Desktop application (GUI)...",
+    "icon": "https://portable-linux-apps.github.io/icons/clamui.png"
+  },
+  {
     "packageName": "clapper",
     "description": "Unofficial. A modern media player designed for simplicity and ease of use...",
     "icon": "https://portable-linux-apps.github.io/icons/clapper.png"
@@ -5438,6 +5443,11 @@
     "packageName": "gradia",
     "description": "Unofficial, screenshot/picture editor and uploader...",
     "icon": "https://portable-linux-apps.github.io/icons/gradia.png"
+  },
+  {
+    "packageName": "gram-enhanced",
+    "description": "Unofficial, a powerful and modern source code editor...",
+    "icon": "https://portable-linux-apps.github.io/icons/gram-enhanced.png"
   },
   {
     "packageName": "granatier",
@@ -10525,6 +10535,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/prismlauncher.png"
   },
   {
+    "packageName": "prismlauncher-enhanced",
+    "description": "Unofficial, a custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)...",
+    "icon": "https://portable-linux-apps.github.io/icons/prismlauncher-enhanced.png"
+  },
+  {
     "packageName": "prismlauncher-qt5",
     "description": "Launcher for Minecraft, manage multiple installations (Qt5 version)...",
     "icon": "https://portable-linux-apps.github.io/icons/prismlauncher-qt5.png"
@@ -10928,6 +10943,11 @@
     "packageName": "quamodbusclient",
     "description": "Modbus to OPC UA Gateway..",
     "icon": "https://portable-linux-apps.github.io/icons/quamodbusclient.png"
+  },
+  {
+    "packageName": "quantumlauncher-enhanced",
+    "description": "Unofficial, a simple, powerful Minecraft launcher...",
+    "icon": "https://portable-linux-apps.github.io/icons/quantumlauncher-enhanced.png"
   },
   {
     "packageName": "quark",
