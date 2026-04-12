@@ -11316,8 +11316,23 @@
   },
   {
     "packageName": "retroarch",
-    "description": "Frontend for emulators, game engines and media players...",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
     "icon": "https://portable-linux-apps.github.io/icons/retroarch.png"
+  },
+  {
+    "packageName": "retroarch-nightly",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-nightly.png"
+  },
+  {
+    "packageName": "retroarch-qt",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt.png"
+  },
+  {
+    "packageName": "retroarch-qt-nightly",
+    "description": "RetroArch is a free and open-source, cross-platform frontend for emulators, game engines, video games, media players and other applications...",
+    "icon": "https://portable-linux-apps.github.io/icons/retroarch-qt-nightly.png"
   },
   {
     "packageName": "retrom",
