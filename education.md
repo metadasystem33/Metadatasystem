@@ -3,7 +3,7 @@
 | [Back to Home](index.md) | [Back to Applications](apps.md)
 | --- | --- |
 
-#### Here are listed **61** programs for this category.
+#### Here are listed **62** programs for this category.
 
 
 <div id="app-search-box" style="margin: 1em 0;">
@@ -98,6 +98,7 @@
 | <img loading="lazy" src="icons/banban.png" width="48" height="48"> | [***banban***](apps/banban.md) | *A productivity app inspired by GitHub Projects Kanban.*..[ *read more* ](apps/banban.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/banban) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/banban) |
 | <img loading="lazy" src="icons/bibletime.png" width="48" height="48"> | [***bibletime***](apps/bibletime.md) | *Unofficial, a Bible study application based on the Sword library and Qt toolkit.*..[ *read more* ](apps/bibletime.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bibletime) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bibletime) |
 | <img loading="lazy" src="icons/book-manager.png" width="48" height="48"> | [***book-manager***](apps/book-manager.md) | *Simple desktop app to manage personal library.*..[ *read more* ](apps/book-manager.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/book-manager) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/book-manager) |
+| <img loading="lazy" src="icons/bookdb.png" width="48" height="48"> | [***bookdb***](apps/bookdb.md) | *A book catalog database for personal collections. Can import data from Readerware 4.*..[ *read more* ](apps/bookdb.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/bookdb) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/bookdb) |
 | <img loading="lazy" src="icons/brainverse.png" width="48" height="48"> | [***brainverse***](apps/brainverse.md) | *Electronic Lab Notebook for Reproducible Neuro Imaging Research.*..[ *read more* ](apps/brainverse.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/brainverse) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/brainverse) |
 | <img loading="lazy" src="icons/calibre.png" width="48" height="48"> | [***calibre***](apps/calibre.md) | *Unofficial. The one stop solution to all your e-book needs.*..[ *read more* ](apps/calibre.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calibre) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calibre) |
 | <img loading="lazy" src="icons/calibre-beta.png" width="48" height="48"> | [***calibre-beta***](apps/calibre-beta.md) | *Unofficial. The one stop solution to all your e-book needs. Beta version.*..[ *read more* ](apps/calibre-beta.md)*!* | [*blob*](https://github.com/ivan-hc/AM/blob/main/programs/x86_64/calibre-beta) **/** [*raw*](https://raw.githubusercontent.com/ivan-hc/AM/main/programs/x86_64/calibre-beta) |

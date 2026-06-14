@@ -1505,6 +1505,11 @@
     "icon": "https://portable-linux-apps.github.io/icons/book-manager.png"
   },
   {
+    "packageName": "bookdb",
+    "description": "A book catalog database for personal collections. Can import data from Readerware 4...",
+    "icon": "https://portable-linux-apps.github.io/icons/bookdb.png"
+  },
+  {
     "packageName": "bookmarks-manager",
     "description": "Edit bookmarks, check url...",
     "icon": "https://portable-linux-apps.github.io/icons/bookmarks-manager.png"
@@ -10683,11 +10688,6 @@
     "packageName": "picmi",
     "description": "Single player logic-based puzzle game. This is part of \"kdegames\"...",
     "icon": "https://portable-linux-apps.github.io/icons/picmi.png"
-  },
-  {
-    "packageName": "picocrypt",
-    "description": "A very small, very simple, yet very secure encryption tool...",
-    "icon": "https://portable-linux-apps.github.io/icons/picocrypt.png"
   },
   {
     "packageName": "picocrypt-ng",
