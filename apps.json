@@ -1242,6 +1242,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "bah-browser",
+    "description": "Open-source AI browser agent — type plain-language commands and Bah operates the web for you. Works with cloud AI (DeepSeek, Mistral, NVIDIA) or local Ollama models...",
+    "icon": "https://portable-linux-apps.github.io/icons/bah-browser.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "baijimangaviewer",
     "description": "Manga viewer that uses Material Design...",
     "icon": "https://portable-linux-apps.github.io/icons/baijimangaviewer.png",
@@ -11079,6 +11085,12 @@
     "packageName": "mycrypto",
     "description": "MyCrypto web and electron app...",
     "icon": "https://portable-linux-apps.github.io/icons/mycrypto.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "myhondaplus-desktop",
+    "description": "Unofficial, desktop GUI for Honda Connect Europe (My Honda+) to monitor and control your vehicle...",
+    "icon": "https://portable-linux-apps.github.io/icons/myhondaplus-desktop.png",
     "arch": ["x86_64"]
   },
   {
