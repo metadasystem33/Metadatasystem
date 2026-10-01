@@ -16836,6 +16836,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "maui-sherpa",
+    "description": "Let MAUI Sherpa guide you through all your .NET MAUI dev environment needs...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/maui-sherpa.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "mawejs",
     "description": "Mawe (Mawe Advanced Writer's Editor) is a writer's editor written with ElectronJS, React and NodeJS. It is aimed for \"plantsers\ writers who start by writing and make structuring in later phases.\",...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mawejs.png",
@@ -25068,6 +25074,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "rezeptor",
+    "description": "Install and run Windows software on Linux with tested Proton-GE recipes...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rezeptor.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "rf-swift",
     "description": "🚀 A powerful multi-platform RF toolbox that deploys specialized radio, hardware, and other security tools in seconds...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/rf-swift.png",
@@ -28515,6 +28527,12 @@
     "packageName": "subtitler",
     "description": "Quickly download subtitles...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/subtitler.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "subway-surfers",
+    "description": "Subway Surfers is a super-fast-paced endless runner where you dash along the tracks, dodging oncoming trains and obstacles...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/subway-surfers.png",
     "arch": ["x86_64"]
   },
   {
