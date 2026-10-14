@@ -50226,12 +50226,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "woocommerce-pos",
-    "description": "Electron Desktop App for WooCommerce POS..",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/woocommerce-pos.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "woof-doom",
     "description": "Woof! is a continuation of the Boom/MBF bloodline of Doom source ports...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/woof-doom.png",
@@ -51676,12 +51670,6 @@
     "description": "The fastest Kubernetes desktop client...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zapkube.png",
     "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "zaplo",
-    "description": "CRM, AI & Agent Hub tu dong, Kho bai & rai lich, Auto-comment, Workflow no-code, ERP noi bo. Local-first, du lieu luu cuc bo...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/zaplo.png",
-    "arch": ["x86_64"]
   },
   {
     "packageName": "zaptide",
