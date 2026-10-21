@@ -10242,12 +10242,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "dardcor-code",
-    "description": "Desktop Code Editor Powered by Electron, Monaco Editor & Local AI Routing..",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/dardcor-code.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "darkplaces",
     "description": "Unofficial. The DarkPlaces Quake engine, created by LadyHavoc...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/darkplaces.png",
