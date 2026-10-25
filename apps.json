@@ -23569,7 +23569,7 @@
   },
   {
     "packageName": "kurobayomi",
-    "description": "sources you add, an mpv player, a reader, and AniList and MyAnimeList tracking...",
+    "description": "a library, an mpv-based player, a manga reader, sources you add yourself, and AniList and MyAnimeList tracking...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/kurobayomi.png",
     "arch": ["x86_64"]
   },
