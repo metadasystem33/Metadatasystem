@@ -27258,6 +27258,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "mercurygram",
+    "description": "Mercurygram Desktop messaging app...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercurygram.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "merframe",
     "description": "Merframe is a Linux and Windows compatible open-source Warframe companion app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/merframe.png",
@@ -49647,6 +49653,12 @@
     "packageName": "vibe-tree",
     "description": "Run AI coding agents in parallel, one git worktree each. Desktop, web, and CLI...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vibe-tree.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "vibe-typer",
+    "description": "hold a hotkey, speak, release, and clean text is typed at the cursor in any app. Native Wayland and X11. Freemium (free plan, no card), closed source...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/vibe-typer.png",
     "arch": ["x86_64"]
   },
   {
