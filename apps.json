@@ -52032,6 +52032,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "wren-desktop",
+    "description": "Fork of Signal Desktop with a passphrase lock, duress wipe, proxy and Tor with a fail-closed gate, and chat export...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wren-desktop.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "wrenyard",
     "description": "Local-first agent orchestration with a unified CLI, runtime, Pet, and Desktop app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/wrenyard.png",
