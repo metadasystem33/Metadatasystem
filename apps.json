@@ -5856,12 +5856,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "cadassistant",
-    "description": "Offline 3D CAD viewer and converter, free for personal and commercial use...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cadassistant.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "cadcraft",
     "description": "Computer-aided design and drafting, an open-source CAD app written in pure Rust...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/cadcraft.png",
@@ -27240,12 +27234,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "mercury",
-    "description": "Firefox fork with compiler optimizations and patches from Librewolf...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercury.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "mercurygram",
     "description": "Mercurygram Desktop messaging app...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/mercurygram.png",
@@ -41352,6 +41340,12 @@
     "arch": ["x86_64"]
   },
   {
+    "packageName": "scribe",
+    "description": "A lightweight, native GNOME Markdown editor with live preview, built with Rust, GTK4 and libadwaita...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/scribe.png",
+    "arch": ["x86_64"]
+  },
+  {
     "packageName": "scribedog",
     "description": "Private AI WYSIWYG Markdown editor with agentic chat & voice dictation. Open source, no cloud, no tracking...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/scribedog.png",
@@ -46953,12 +46947,6 @@
     "packageName": "thoptv",
     "description": "Enjoy Ultimate Movies, sports Matches, IPL and Latest Shows...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thoptv.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "thorium",
-    "description": "Web Browser, a Chromium fork including Widevine and FFmpeg support...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/thorium.png",
     "arch": ["x86_64"]
   },
   {
