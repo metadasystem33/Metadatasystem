@@ -23982,12 +23982,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "latte",
-    "description": "Latte - An Agent Marketing Platform. Open-source, local-first workspace for marketing with your own AI agents...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/latte.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "lattice-term",
     "description": "Cross-platform AI CLI and remote connection desktop workspace｜Run Codex, Claude Code and other local agents alongside SSH, SFTP, RDP, VNC and encrypted remote desktop....",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/lattice-term.png",
