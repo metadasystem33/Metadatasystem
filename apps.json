@@ -47400,12 +47400,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "tb",
-    "description": "Tasks, boards & notes for the command-line habitat...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tb.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "tbc-video-export",
     "description": "Tool for exporting S-Video and CVBS-type TBCs to video files...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/tbc-video-export.png",
