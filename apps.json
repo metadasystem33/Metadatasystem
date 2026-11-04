@@ -2814,12 +2814,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "arkdraw",
-    "description": "Arkdraw is an open-source diagramming app for creating flowcharts, UML, ER diagrams, network maps, wireframes, and mind maps with a built-in AI assistant that generates and edits diagrams from natural-language prompts...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arkdraw.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
     "packageName": "arma3-unix-launcher",
     "description": "ArmA 3 Unix Launcher, game...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/arma3-unix-launcher.png",
