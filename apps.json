@@ -30612,12 +30612,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "nam-editor",
-    "description": "NAM Metadata editor...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nam-editor.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "nam-mixer",
     "description": "Blend two Neural Amp Modeler captures into one new amp — playable live, and trainable into a single standalone .nam model...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/nam-mixer.png",
