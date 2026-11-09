@@ -43464,12 +43464,6 @@
     "arch": ["x86_64","aarch64"]
   },
   {
-    "packageName": "servermark",
-    "description": "ServerMark is a desktop application for managing local development environments on Linux...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/servermark.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "serverpackcreator",
     "description": "Create a server pack from a Minecraft Forge, NeoForge, Fabric, LegacyFabric or Quilt modpack!...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/serverpackcreator.png",
