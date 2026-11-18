@@ -7488,12 +7488,6 @@
     "arch": ["x86_64"]
   },
   {
-    "packageName": "chainlesschain",
-    "description": "assertions, source code locations, and test conclusions will be retained across context compression, restarts, and task handovers; fix routing that misdirected GitHub CLI calls to Git tools. ...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chainlesschain.png",
-    "arch": ["x86_64"]
-  },
-  {
     "packageName": "chainx-signer",
     "description": "Manage ChainX account, sign and sign transactions...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/chainx-signer.png",
@@ -8097,18 +8091,6 @@
     "packageName": "citadel",
     "description": "Manage your ebook library without frustrations. Calibre compatible...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/citadel.png",
-    "arch": ["x86_64"]
-  },
-  {
-    "packageName": "citron-nightly",
-    "description": "The switch fell off https://citron-neo.org/...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/citron-nightly.png",
-    "arch": ["x86_64","aarch64"]
-  },
-  {
-    "packageName": "citron-nightly-v3",
-    "description": "The switch fell off https://citron-neo.org/...",
-    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/citron-nightly-v3.png",
     "arch": ["x86_64"]
   },
   {
