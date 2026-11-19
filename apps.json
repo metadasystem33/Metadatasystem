@@ -10788,6 +10788,12 @@
     "arch": ["x86_64","aarch64"]
   },
   {
+    "packageName": "crosspaste",
+    "description": "Cross-device clipboard sync for macOS, Windows & Linux — end-to-end encrypted, LAN-only, no cloud. OCR, CLI and MCP server built in....",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crosspaste.png",
+    "arch": ["x86_64","aarch64"]
+  },
+  {
     "packageName": "crossplatformdownloadmanager",
     "description": "A fast, open-source, and feature-rich download manager for Windows, Linux, and macOS with multi-threading, queue support, and browser integration...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/crossplatformdownloadmanager.png",
@@ -12105,6 +12111,12 @@
     "packageName": "deployerx",
     "description": "A local-first Windows workspace for SSH, SFTP, deployments, uptime monitoring, backups, and remote server administration...",
     "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/deployerx.png",
+    "arch": ["x86_64"]
+  },
+  {
+    "packageName": "descify",
+    "description": "AI-powered batch metadata generator for images — cloud APIs or 100% local models...",
+    "icon": "https://raw.githubusercontent.com/Portable-Linux-Apps/Portable-Linux-Apps.github.io/main/icons/descify.png",
     "arch": ["x86_64"]
   },
   {
